@@ -1,0 +1,2 @@
+# epam-task-10
+JAVA8 LAMBDAS AND STREAMS
